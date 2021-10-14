@@ -1,0 +1,33 @@
+body {
+  background-color: #edb7ec;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10%, 20%;
+}
+
+header {
+  margin: 50px;
+  background-color: #c48dc3;
+  padding: 20px 40px;
+  margin: 10px 200px;
+}
+
+.info {
+  text-align: center;
+  background-color: #c48dc3;
+  color: #2e2b2e;
+  padding: 10px 0px;
+  margin: 0px 200px;
+  border-radius: 8px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 14px solid grey;
+}
